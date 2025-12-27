@@ -1,5 +1,8 @@
 # 💫 About Me:
-Aspiring Machine Learning Engineer<br>Hands-On With Deep Learning & NLP<br>Passionate About Turning Data Into Insights
+I’m an aspiring Machine Learning Engineer with hands-on experience in Deep Learning and Natural Language Processing (NLP). I’m passionate about transforming raw data into meaningful insights and intelligent solutions. I enjoy experimenting with various ML models, optimizing their performance, and deploying them into real-world applications.
+
+I actively participate on Kaggle, where I explore new datasets, refine my analytical skills, and learn from the global data science community. My journey is driven by curiosity, continuous learning, and a strong commitment to building robust, explainable AI systems that make an impact.
+
 
 
 ## 🌐 Socials:
